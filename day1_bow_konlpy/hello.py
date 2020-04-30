@@ -3,3 +3,5 @@ def say_hello(name=None):
         return 'Hello {}!'.format(name)
     else:
         return 'Hello!'
+
+print(say_hello('Kang'))

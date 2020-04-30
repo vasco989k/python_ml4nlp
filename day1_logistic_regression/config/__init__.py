@@ -1,0 +1,1 @@
+dataset_dir = 'C:\\Users\\vasco\\ws_machine_learning\\lovit\\textmining_dataset\\'
